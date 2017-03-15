@@ -9,8 +9,8 @@
 
 ### **task_3** 
     -> calculator （非作业要求）
-    **run_steps** are similar to task_1.
+**run_steps** are similar to task_1.
 
 ### **task_4** 
     -> RSA.py (apply regular expression)
-    **run_steps** are similar to task_1.
+**run_steps** are similar to task_1.
